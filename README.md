@@ -32,6 +32,8 @@ http://192.168.11.20/chat?voice=4&text=こんにちは<br>
 ロール情報は自動的にspiffsに保存されます。<br>
 <br>
 
+* ブラウザで"http://xxxx.xxxx.xxxx.xxxx/role_get"にアクセスすると、現在設定しているロールを取得できます。<br>
+
 * AIスタックチャンの表情を会話内容に合わせて変更できます。<br>
 ロール設定で以下の２行をそのまま入力してください。<br><br>
 (Happy)のように、括弧で囲んで感情の種類を表し、返答の先頭に付けてください。<br>
@@ -44,4 +46,19 @@ http://192.168.11.20/chat?voice=4&text=こんにちは<br>
 ### 注意点として、ファームを書き込み後には再度SDからAPIキーを設定することを忘れないようにしてください。 ###
 <br><br>
 
+---
+
+### ChatGPTのAPIキー取得の参考リンク ###
+
+* [ChatGPT API利用方法の簡単解説](https://qiita.com/mikito/items/b69f38c54b362c20e9e6/ "Title")<br>
+
+### VoiceText Wev API api キーのキー取得のリンク ###
+
+* APIキーは、[ここ](https://cloud.voicetext.jp/webapi/ "Title")の「無料利用登録」から申請すれば、メールで送られて来ます。<br>
+
+
+### ChatGPTのキャラクター設定の参考リンク ###
+
+* [ChatGPTのAPIでキャラクター設定を試してみた](https://note.com/it_navi/n/nf5f702b36a75#8e42f887-fb07-4367-9f3f-ab7f119eb064/ "Title")<br>
+<br><br>
 
